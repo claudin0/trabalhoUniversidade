@@ -1,1 +1,1 @@
-# trabalhoUniversidade
+Resumindo é uma  biblioeteca onde o sistema vai dar cadrastrar livros e usuarios, com o cadrasto do usuario (endereço e nome), para alugar ele ir verificar se o usuario está no banco de dados e depois ira aparecer  a ação para escolher qual livro ira ser  escolhido pelo usarui, codigo bem simples.
